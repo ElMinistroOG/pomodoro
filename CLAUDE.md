@@ -1,3 +1,5 @@
+> Este archivo existe duplicado como CLAUDE.md y AGENTS.md. Si actualizas uno, actualiza también el otro con el mismo contenido.
+
 # CLAUDE.md — Pomodoro
 
 Lee este archivo entero antes de tocar nada. Está escrito para que un chat sin contexto pueda seguir el proyecto.
